@@ -1,0 +1,8 @@
+{
+  "name": "afroamaka",
+  "app_id": "2d5c2836",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
